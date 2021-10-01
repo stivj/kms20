@@ -1,4 +1,2 @@
 <php?
-
-ld
-llsad
+array_diff_assoc
